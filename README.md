@@ -1,6 +1,6 @@
 👋 Hey, I’m Lizsvr
 🔧 On a journey to become a real-world developer.
-I’m currently learning and building with Node.js, React, and starting to explore Android development with Kotlin. My goal is to turn ideas into working apps — one line of code at a time.
+I’m currently learning and building with Node.js, and React. My goal is to turn ideas into working apps — one line of code at a time.
 
 💡 I believe: “The best way to learn is by doing.”
 From setting up APIs and crafting UIs to fixing annoying bugs — it’s all part of the process I enjoy.

@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @lizsvr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey, I’m Lizsvr
+🔧 On a journey to become a real-world developer.
+I’m currently learning and building with Node.js, React, and starting to explore Android development with Kotlin. My goal is to turn ideas into working apps — one line of code at a time.
 
-<!---
-lizsvr/lizsvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I believe: “The best way to learn is by doing.”
+From setting up APIs and crafting UIs to fixing annoying bugs — it’s all part of the process I enjoy.
+
+📌 What I’m currently focused on:
+
+🔹 Building small full-stack projects
+
+🔹 Learning React with Tailwind CSS
+
+🔹 Experimenting with simple Android apps
+
+✨ motto: “Make it real, make it work.”

@@ -13,4 +13,4 @@ From setting up APIs and crafting UIs to fixing annoying bugs — it’s all par
 
 🔹 Experimenting with simple Android apps
 
-✨ motto: “Make it real, make it work.”
+✨ Motto: “Make it real, make it work.”

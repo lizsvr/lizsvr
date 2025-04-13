@@ -11,6 +11,4 @@ From setting up APIs and crafting UIs to fixing annoying bugs — it’s all par
 
 🔹 Learning React with Tailwind CSS
 
-🔹 Experimenting with simple Android apps
-
 ✨ Motto: “Make it real, make it work.”
